@@ -5,32 +5,32 @@ import Image from "next/image";
 const brands = [
   {
     name: "Sportify",
-    logo: "https://api.dicebear.com/7.x/initials/svg?seed=Sportify&backgroundColor=4F46E5&fontFamily=Arial&fontSize=36",
+    logo: "https://logos-world.net/wp-content/uploads/2020/10/Spotify-Logo.png",
     description: "Premium athletic wear for every sport",
   },
   {
     name: "Urban Style",
-    logo: "https://api.dicebear.com/7.x/initials/svg?seed=UrbanStyle&backgroundColor=10B981&fontFamily=Arial&fontSize=36",
+    logo: "https://logos-world.net/wp-content/uploads/2020/10/Spotify-Logo.png",
     description: "Contemporary fashion for the modern lifestyle",
   },
   {
     name: "Luxe Leather",
-    logo: "https://api.dicebear.com/7.x/initials/svg?seed=LuxeLeather&backgroundColor=F59E0B&fontFamily=Arial&fontSize=36",
+    logo: "https://logos-world.net/wp-content/uploads/2020/10/Spotify-Logo.png",
     description: "Handcrafted leather goods and accessories",
   },
   {
     name: "Eco Apparel",
-    logo: "https://api.dicebear.com/7.x/initials/svg?seed=EcoApparel&backgroundColor=EC4899&fontFamily=Arial&fontSize=36",
+    logo: "https://logos-world.net/wp-content/uploads/2020/10/Spotify-Logo.png",
     description: "Sustainable clothing made from recycled materials",
   },
   {
     name: "Tech Gear",
-    logo: "https://api.dicebear.com/7.x/initials/svg?seed=TechGear&backgroundColor=6366F1&fontFamily=Arial&fontSize=36",
+    logo: "https://logos-world.net/wp-content/uploads/2020/10/Spotify-Logo.png",
     description: "Innovative accessories for your devices",
   },
   {
     name: "Outdoor Plus",
-    logo: "https://api.dicebear.com/7.x/initials/svg?seed=OutdoorPlus&backgroundColor=8B5CF6&fontFamily=Arial&fontSize=36",
+    logo: "https://logos-world.net/wp-content/uploads/2020/10/Spotify-Logo.png",
     description: "Equipment and apparel for outdoor adventures",
   },
 ];

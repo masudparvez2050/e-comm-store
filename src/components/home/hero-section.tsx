@@ -47,6 +47,19 @@ const heroProducts = [
       "https://images.unsplash.com/photo-1547949003-9792a18a2601?w=800&q=80",
     category: "Clothing",
   },
+  {
+    id: 4,
+    name: "Running Performance Shoes",
+    description:
+      "High-performance running shoes designed for serious athletes. Features advanced cushioning, breathable upper, and superior traction for various terrains.",
+    price: 119.99,
+    originalPrice: 149.99,
+    discount: 20,
+    image:
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&q=80",
+    category: "sneakers",
+    isNew: true,
+  },
 ];
 
 export function HeroSection() {
